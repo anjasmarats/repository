@@ -1,1 +1,2 @@
-print("branch-baru")
+a = "branch-baru"
+print(a)
